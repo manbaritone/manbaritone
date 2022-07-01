@@ -1,5 +1,5 @@
 [![Hi Badge](https://img.shields.io/badge/-Hi%20there!%20(Sa--was--dee)-red?style=for-the-badge)](https://manbaritone.com) 
-
+![](https://komarev.com/ghpvc/?username=manbaritone&style=for-the-badge)
 ------------------------------
 #### Biography:
 I'm Bundit, a current Ph.D. student in Information Science and Technology, Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand. I received a B.Sc. degree in Chemistry from Prince of Songkla University, Thailand and an M.S. degree in Biochemistry from Kasetsart University, Thailand.
@@ -18,5 +18,5 @@ _Keywords_: Computational Biology, Computational Chemistry, Structural Bioinform
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manbaritone/)
 
 ------------------------------
-![manbaritone's GitHub stats](https://github-readme-stats.vercel.app/api?username=manbaritone&count_private=true&show_icons=true&theme=gradient)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manbaritone&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manbaritone&layout=compact)
