@@ -2,9 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=manbaritone&style=for-the-badge)
 ------------------------------
 #### Biography:
-I'm Bundit, a current Ph.D. student in Information Science and Technology, Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand. I received a B.Sc. degree in Chemistry from Prince of Songkla University, Thailand and an M.S. degree in Biochemistry from Kasetsart University, Thailand.
+I'm Bundit, a current Ph.D. candidate in Information Science and Technology at Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand. I received a B.Sc. degree in Chemistry from Prince of Songkla University, Thailand and an M.S. degree in Biochemistry from Kasetsart University, Thailand.
 
-My main research focus lies in using computational science and machine learning techniques to understanding the molecular structure and function. I also encourage the establishment and enhancement of model architectures and algorithms for applications across life sciences and chemical sciences driven by machine learning and computational biology & chemistry techniques.
+My main research focus lies in using computational science and machine learning techniques to understand molecular structure and function. I also encourage the establishment and enhancement of model architectures and algorithms for applications across life sciences and chemical sciences driven by machine learning and computational biology & chemistry techniques.
 
 _Keywords_: Computational Biology, Computational Chemistry, Structural Bioinformatics, Drug Discovery, Machine Learning, Deep Learning
 
