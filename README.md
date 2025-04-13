@@ -4,11 +4,11 @@
 #### Biography:
 I'm Bundit, a current Ph.D. candidate in Information Science and Technology at the Natural Language Processing and Representation Learning Lab (NRL), Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand.  I received a B.Sc. degree in Chemistry from Prince of Songkla University, Thailand and an M.S. degree in Biochemistry from Kasetsart University, Thailand.
 
-My main research focus lies in using computational science and machine learning techniques to understand molecular structure and function. I also encourage the establishment and enhancement of model architectures and algorithms for applications across life sciences and chemical sciences driven by machine learning and computational biology & chemistry techniques.
+My research bridges the disciplines of Biochemistry, Pharmaceutical Sciences, and Computer Science. I employ machine learning methodologies along with computational biology and chemistry techniques to unravel complex molecular structures and functions. Moreover, I am passionately involved in innovating and refining cutting-edge deep learning models and algorithms to enhance the accuracy and efficacy of molecular property predictions. These research highlights contribute to the dynamic landscapes of computational science, offering advancements across biomolecular science and biomedicine.
 
 _Keywords_: Computational Biology, Computational Chemistry, Structural Bioinformatics, Drug Discovery, Machine Learning, Deep Learning
 
-#### More Information About Me: 
+#### More Information About Me and Research: 
 [![CV Badge](https://img.shields.io/badge/-My%20CV-green?style=for-the-badge)](https://drive.google.com/file/d/1ULhn5BCc0al6qr_uk42ocpTLFTvS7k19/view) 
 [![Website Badge](https://img.shields.io/badge/-Website-red?style=for-the-badge)](https://manbaritone.com) 
 
