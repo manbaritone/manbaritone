@@ -2,11 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=manbaritone&style=for-the-badge)
 ------------------------------
 #### Biography:
-I'm Bundit, a current Ph.D. candidate in Information Science and Technology at the Natural Language Processing and Representation Learning Lab (NRL), Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand.  I received a B.Sc. degree in Chemistry from Prince of Songkla University, Thailand and an M.S. degree in Biochemistry from Kasetsart University, Thailand.
+I'm Bundit, a Ph.D. graduate in Information Science and Technology at the Natural Language Processing and Representation Learning Lab (NRL), Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand.  I received a B.Sc. degree in Chemistry from Prince of Songkla University, Thailand and an M.S. degree in Biochemistry from Kasetsart University, Thailand.
 
 My interdisciplinary research bridges the disciplines of Biochemistry, Molecular Biology, Chemistry, Pharmaceutical Sciences, and Computer Science. My research focuses on leveraging advanced artificial intelligence and computational techniques to develop novel computational frameworks and machine learning/deep learning models that drive innovation and discovery in biomolecular science and biomedicine. My current research spans three core areas: Molecular Representation Learning & Computations, Molecular Discovery & Design, and Molecular Modeling & Simulation.
 
-_Keywords_: Computational Biology, Computational Chemistry, Structural Bioinformatics, Drug Discovery, Machine Learning, Deep Learning
+_Keywords_: Computational Biology, Computational Biochemistry, Structural Bioinformatics, Drug Discovery, Machine Learning, Deep Learning
 
 #### More Information About Me and Research: 
 [![CV Badge](https://img.shields.io/badge/-My%20CV-green?style=for-the-badge)](https://drive.google.com/file/d/1ULhn5BCc0al6qr_uk42ocpTLFTvS7k19/view) 
