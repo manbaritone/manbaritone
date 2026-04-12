@@ -16,7 +16,3 @@ _Keywords_: Computational Biology, Computational Biochemistry, Structural Bioinf
 [![Work Email Badge](https://img.shields.io/badge/-Work%20Email-orange?style=for-the-badge)](mailto:bundit.b_s18@vistec.ac.th)
 [![Personal Email Badge](https://img.shields.io/badge/-Personal%20Email-brightgreen?style=for-the-badge)](mailto:bundit.b@hotmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manbaritone/)
-
-------------------------------
-[![trophy](https://github-profile-trophy.vercel.app/?username=manbaritone&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manbaritone&layout=compact)
